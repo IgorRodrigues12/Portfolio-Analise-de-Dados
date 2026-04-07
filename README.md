@@ -82,7 +82,7 @@ GROUP BY c.nome_cliente;
 
 ```
 
-Dashboard no Power BI
+##Dashboard no Power BI
 
 O dashboard foi desenvolvido para apresentar os principais indicadores de vendas de forma visual e intuitiva.
 
