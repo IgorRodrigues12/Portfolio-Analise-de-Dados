@@ -86,46 +86,46 @@ GROUP BY c.nome_cliente;
 
 O dashboard foi desenvolvido para apresentar os principais indicadores de vendas de forma visual e intuitiva.
 
-KPIs principais:
-Receita Total
-Quantidade Total de Vendas
-Ticket Médio
-Crescimento Mensal (%)
+- KPIs principais:
+- Receita Total
+- Quantidade Total de Vendas
+- Ticket Médio
+- Crescimento Mensal (%)
 
 
 ## Visuais utilizados
 
-Cards de indicadores
-Gráfico de linha para evolução mensal
-Gráfico de barras para produtos mais vendidos
-Análise por cliente
-Segmentações por período, cliente e produto
+- Cards de indicadores
+- Gráfico de linha para evolução mensal
+- Gráfico de barras para produtos mais vendidos
+- Análise por cliente
+- Segmentações por período, cliente e produto
 
 ## Insights encontrados
 
-Clientes com maior volume de compras representam a maior parte da receita
-Alguns produtos possuem alta recorrência de vendas
-Existe variação de receita ao longo dos meses
-Determinadas categorias apresentam maior faturamento
+- Clientes com maior volume de compras representam a maior parte da receita
+- Alguns produtos possuem alta recorrência de vendas
+- Existe variação de receita ao longo dos meses
+- Determinadas categorias apresentam maior faturamento
 
 ## Habilidades demonstradas
 
-SQL para análise de dados (JOIN, GROUP BY, agregações)
-Modelagem de banco de dados relacional
-Power BI para construção de dashboards e KPIs
-Pensamento analítico voltado a negócio
-Organização de projeto em GitHub
+- SQL para análise de dados (JOIN, GROUP BY, agregações)
+- Modelagem de banco de dados relacional
+- Power BI para construção de dashboards e KPIs
+- Pensamento analítico voltado a negócio
+- Organização de projeto em GitHub
 
 ## Próximos passos
 
-Implementar margem de lucro
-Aplicar DAX mais avançado
-Adicionar análise por região e segmento
+- Implementar margem de lucro,
+- Aplicar DAX mais avançado,
+- Adicionar análise por região e segmento.
 
 
 ## Autor
 
-Igor Rodrigues da Mata
+- Igor Rodrigues da Mata
 📍 Sorocaba - SP
 🔗 https://linkedin.com/in/igorrodriguesdamata
 
