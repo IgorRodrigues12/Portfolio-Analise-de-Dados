@@ -93,7 +93,7 @@ Ticket Médio
 Crescimento Mensal (%)
 
 
---Visuais utilizados
+## Visuais utilizados
 
 Cards de indicadores
 Gráfico de linha para evolução mensal
@@ -101,14 +101,14 @@ Gráfico de barras para produtos mais vendidos
 Análise por cliente
 Segmentações por período, cliente e produto
 
----Insights encontrados
+## Insights encontrados
 
 Clientes com maior volume de compras representam a maior parte da receita
 Alguns produtos possuem alta recorrência de vendas
 Existe variação de receita ao longo dos meses
 Determinadas categorias apresentam maior faturamento
 
----Habilidades demonstradas
+## Habilidades demonstradas
 
 SQL para análise de dados (JOIN, GROUP BY, agregações)
 Modelagem de banco de dados relacional
@@ -116,14 +116,14 @@ Power BI para construção de dashboards e KPIs
 Pensamento analítico voltado a negócio
 Organização de projeto em GitHub
 
----Próximos passos
+## Próximos passos
 
 Implementar margem de lucro
 Aplicar DAX mais avançado
 Adicionar análise por região e segmento
 
 
-Autor
+## Autor
 
 Igor Rodrigues da Mata
 📍 Sorocaba - SP
