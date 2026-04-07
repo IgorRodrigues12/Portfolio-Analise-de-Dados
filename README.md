@@ -1,6 +1,6 @@
 # Análise de Vendas com SQL e Power BI
 
-![Power Bi](Dashboard_preview.JPG)
+![Dashboard](Portfolio-Analise-de-Dados/blob/main/Power%20bi/Dashboard_preview.JPG)
 !
 
 Projeto de portfólio desenvolvido com foco em análise de dados, utilizando SQL Server para modelagem e consulta dos dados, e Power BI para construção de dashboard interativo com KPIs e visualizações de negócio.
