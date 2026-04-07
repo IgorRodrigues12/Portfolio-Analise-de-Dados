@@ -70,7 +70,7 @@ Durante o projeto, foram criadas consultas para responder perguntas de negócio,
 
 ---
 
-## Exemplos de consultas SQL
+## Exemplo de consulta SQL
 
 ### Receita total por cliente
 ```sql
@@ -78,7 +78,6 @@ SELECT c.nome_cliente, SUM(v.receita) AS receita_total
 FROM vendas v
 JOIN clientes c ON v.id_cliente = c.id_cliente
 GROUP BY c.nome_cliente;
-
 
 ```
 
